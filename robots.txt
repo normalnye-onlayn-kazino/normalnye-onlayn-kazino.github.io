@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: normalnye-onlayn-kazino.github.io
+Sitemap: https://normalnye-onlayn-kazino.github.io/sitemap.xml
